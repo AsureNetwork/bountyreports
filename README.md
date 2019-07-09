@@ -6,6 +6,6 @@
 2. Run the following commands
     ```bash
     npm install
-    node lib/index.js 
+    npm start
     ```
 3. Copy `output.json`
