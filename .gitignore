@@ -1,6 +1,5 @@
+.idea
 node_modules
 data
 input.csv
-output.json
-output-token-distribution.json
-output-token-distribution.csv
+output*
